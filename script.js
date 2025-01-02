@@ -340,7 +340,7 @@ document.addEventListener("DOMContentLoaded", typeAboutUsEffect);
 // Menu Data
 
 const menuData = [
-   {
+  {
     category: "🍔 Burgers",
     colorClass: "text-warning",
     subcategories: {
@@ -363,6 +363,7 @@ const menuData = [
       ],
     },
   },
+
 
   {
     category: "🌯 Wraps & Rolls",
@@ -1003,8 +1004,7 @@ function placeOrder() {
   console.log("Total amount after discount:", roundedDiscountedAmount); // Debugging step
 
   // Add the custom message at the beginning
-  const message = encodeURIComponent(`
-        Here is my order details:- 
+  const message = encodeURIComponent(`Here is my order details:- 
         
         ${orderDetails}
         
@@ -1024,8 +1024,7 @@ function placeOrder() {
 
         Thank you for Shopping at perfectusfoods.com
         We hope our food makes your day even better 😊😊😊
-        Wishing you a Happy & Prosperous New Year! 🌟🎆✨
-    `);
+        Wishing you a Happy & Prosperous New Year! 🌟🎆✨`);
 
   const whatsappURL = `https://wa.me/917250327478?text=${message}`;
 
