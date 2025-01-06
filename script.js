@@ -1004,7 +1004,8 @@ function placeOrder() {
   console.log("Total amount after discount:", roundedDiscountedAmount); // Debugging step
 
   // Add the custom message at the beginning
-  const message = encodeURIComponent(`Here is my order details:- 
+  const message = encodeURIComponent(`
+        Here is my order details:- 
         
         ${orderDetails}
         
@@ -1023,8 +1024,7 @@ function placeOrder() {
         Note: ${deliveryMessage || "You will get your Treat in 20 minutes."}
 
         Thank you for Shopping at perfectusfoods.com
-        We hope our food makes your day even better 😊😊😊
-        Wishing you a Happy & Prosperous New Year! 🌟🎆✨`);
+        We hope our food makes your day even better 😊😊😊`);
 
   const whatsappURL = `https://wa.me/917250327478?text=${message}`;
 
