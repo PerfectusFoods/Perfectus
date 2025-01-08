@@ -149,6 +149,12 @@ p.lead {
   color: #17a2b8 !important;
 }
 
+/* discount  */
+
+#discount h1{
+  font-size: 18px;
+}
+
 /* Menu  */
 #menu {
   /* background-color: #e5d5be; */
