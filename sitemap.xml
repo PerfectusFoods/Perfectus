@@ -1,12 +1,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://perfectusfoods.com/</loc>
-<lastmod>2025-01-08T08:02:32+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://perfectusfoods.com/index.html</loc>
-<lastmod>2025-01-08T08:02:32+00:00</lastmod>
-<priority>0.80</priority>
-</url>
+  <!-- Homepage -->
+  <url>
+    <loc>https://perfectusfoods.com/</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Index page -->
+  <url>
+    <loc>https://perfectusfoods.com/index.html</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Other key pages from the navbar -->
+  <url>
+    <loc>https://perfectusfoods.com/#home</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  
+  <url>
+    <loc>https://perfectusfoods.com/#menu</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  
+  <url>
+    <loc>https://perfectusfoods.com/#order</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://perfectusfoods.com/#gallery</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://perfectusfoods.com/#about-us</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Contact Us -->
+  <url>
+    <loc>https://perfectusfoods.com/#contact</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- External Links -->
+  <url>
+    <loc>https://wa.me/917250327478</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.instagram.com/perfectus_india/profilecard/?igsh=MTJzM3hqbGtyZmY4YQ==</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.facebook.com/myperfectus</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.linkedin.com/in/abhinav-raj-iitR</loc>
+    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
 </urlset>
