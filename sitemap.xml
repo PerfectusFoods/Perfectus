@@ -50,29 +50,5 @@
     <lastmod>2025-01-10T12:00:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
-
-  <!-- External Links -->
-  <url>
-    <loc>https://wa.me/917250327478</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
-    <priority>0.50</priority>
-  </url>
-
-  <url>
-    <loc>https://www.instagram.com/perfectus_india/profilecard/?igsh=MTJzM3hqbGtyZmY4YQ==</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
-    <priority>0.50</priority>
-  </url>
-
-  <url>
-    <loc>https://www.facebook.com/myperfectus</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
-    <priority>0.50</priority>
-  </url>
-
-  <url>
-    <loc>https://www.linkedin.com/in/abhinav-raj-iitR</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
-    <priority>0.50</priority>
-  </url>
+  
 </urlset>
