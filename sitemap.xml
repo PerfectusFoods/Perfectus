@@ -2,52 +2,52 @@
   <!-- Homepage -->
   <url>
     <loc>https://perfectusfoods.com/</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T12:32:00+00:00</lastmod>
     <priority>1.00</priority>
   </url>
 
   <!-- Index page -->
   <url>
     <loc>https://perfectusfoods.com/index.html</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T12:32:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 
   <!-- Other key pages from the navbar -->
   <url>
     <loc>https://perfectusfoods.com/#home</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T12:32:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   
   <url>
     <loc>https://perfectusfoods.com/#menu</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T12:32:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   
   <url>
     <loc>https://perfectusfoods.com/#order</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T12:32:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://perfectusfoods.com/#gallery</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T12:32:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 
   <url>
     <loc>https://perfectusfoods.com/#about-us</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T12:32:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
 
   <!-- Contact Us -->
   <url>
     <loc>https://perfectusfoods.com/#contact</loc>
-    <lastmod>2025-01-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T12:32:00+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   
