@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /Apply-Logo.png
+Allow: /index.html
+
