@@ -613,6 +613,11 @@ footer {
   z-index: 1000;
   border-radius: 50%;
   padding: 10px 15px;
+  background-color: #ffa405;
+  color: #000;
+}
+#backToTopBtn:hover {
+  background-color: #ffb933;
 }
 
 /* Bottom Message */
@@ -623,6 +628,11 @@ footer {
   left: 50%;
   transform: translateX(-50%);
   z-index: 1000;
+  background-color: #ffa405;
+  color: #000;
+}
+#bottomMessage:hover {
+  background-color: #ffb933;
 }
 
 .btn-primary {
