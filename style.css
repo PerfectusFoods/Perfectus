@@ -628,8 +628,8 @@ footer {
   left: 50%;
   transform: translateX(-50%);
   z-index: 1000;
-  background-color: #ffa405;
-  color: #000;
+ /* background-color: #ffa405;
+  color: #000; */
 }
 #bottomMessage:hover {
   background-color: #ffb933;
