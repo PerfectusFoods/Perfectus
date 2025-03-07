@@ -371,7 +371,7 @@ const menuData = [
         { name: "Cheese Chicken: B", price: 109 },
         { name: "Spicy Chicken: B", price: 89 },
         { name: "Junior Egg Burger: B", price: 49 },
-        { name: "Crumbly Chicken: B", price: 119 },
+        { name: "Crumbly Chicken Cheese: B", price: 119 },
       ],
     },
   },
